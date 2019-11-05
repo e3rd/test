@@ -1,5 +1,5 @@
 # svg test
+bez
 
-
-![Methods overview](./docs/convey-methods.svg?sanitize=True)
+![Methods overview](./docs/convey-methods.svg)
 
